@@ -1,4 +1,4 @@
-## Oi, Me chamo Nicolas e sou programador:)
+## Hi
 <div align="center">
   <a href="https://github.com/TheToddyn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheToddyn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
